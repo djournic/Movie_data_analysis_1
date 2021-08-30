@@ -7,7 +7,7 @@ by Microsoft. I used some simple web scraping and data cleaning to get the data 
 Disney has made over 900 kajillion dollars with the MCU and Microsoft wants to be a part of the action (that number may not be accurate as of the time of posting). So I have been
 tasked with recommending what movies Microsoft should make when getting into the business.
 There are a lot of elements to look at regarding movies and what makes them successful or not. To keep it simple, I looked at money, also assuming Microsoft would be interested in making money.
-![Alt text](https://tenor.com/view/shut-up-take-my-money-gif-6068097)
+![Alt text](https://tenor.com/view/shut-up-take-my-money-gif-6068097.gif)
 
 The prject provided a number of files to read, which I did. I then decided I wanted other data, so I did some web scraping from Wikipedia and TheNumbers.
 I made a number of very handsome graphs illustrating this data. 
