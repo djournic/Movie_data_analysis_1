@@ -1,8 +1,14 @@
-# Phase1_Project
-This is my repository for the Phase 1 Project for the Flatiron School.
+# Movie Data Analysis
+## Introduction
+This is my repository for the Phase 1 Project for the Flatiron School. This project involves analyzing movie data to create recommendations for a hypothetical movie being produced
+by Microsoft. I used some simple web scraping and data cleaning to get the data I needed to make my case.
 
-I wanted to solve the problem of getting Microsoft into the movie business.
-That's a big question, there's a lot to look at regarding movies and what makes them successful or not. To simplify, I looked at money, also assuming Microsoft would be interested in making money.
+## The Problem
+Disney has made over 900 kajillion dollars with the MCU and Microsoft wants to be a part of the action (that number may not be accurate as of the time of posting). So I have been
+tasked with recommending what movies Microsoft should make when getting into the business.
+There are a lot of elements to look at regarding movies and what makes them successful or not. To keep it simple, I looked at money, also assuming Microsoft would be interested in making money.
+![Alt text](https://imgur.com/gallery/Cv8p0I3)
+
 The prject provided a number of files to read, which I did. I then decided I wanted other data, so I did some web scraping from Wikipedia and TheNumbers.
 I made a number of very handsome graphs illustrating this data. 
 I came to the conclusion early on that sequels were the simplest answer to how to make money making movies. The majority of the movies were sequels, and not just the first sequel, many were the 3rd or higher in the series.
